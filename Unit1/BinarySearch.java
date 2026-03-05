@@ -1,3 +1,4 @@
+
 package Unit1;
 
 import java.util.Scanner;
@@ -9,7 +10,7 @@ public class BinarySearch {
         System.out.println("Enter limit of array: ");
         int n = sc.nextInt();
         int[] arr = new int[n];
-        
+
         for (int i = 0; i < n; i++) {
             System.out.print("Element " + (i + 1) + ": ");
             arr[i] = sc.nextInt();

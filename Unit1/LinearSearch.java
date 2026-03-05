@@ -1,3 +1,4 @@
+// Write a program to search an element in a given array using linear search
 package Unit1;
 
 import java.util.Scanner;
