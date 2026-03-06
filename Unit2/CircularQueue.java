@@ -1,4 +1,5 @@
 package Unit2;
+
 import java.util.Scanner;
 
 class CircularQueueClass {
