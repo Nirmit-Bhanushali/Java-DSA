@@ -1,4 +1,4 @@
-
+// Write a program to search an element in a given array using binary search.
 package Unit1;
 
 import java.util.Scanner;
