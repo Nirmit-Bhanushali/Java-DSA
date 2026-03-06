@@ -1,5 +1,5 @@
+// 2.4 Write a program to implement a binary tree and display the contents using preorder, postorder, and in-order traversal techniques.
 package Unit2;
-
 import java.util.Scanner;
 
 class Node {

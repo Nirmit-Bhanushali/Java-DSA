@@ -1,5 +1,5 @@
+// 2.2 Write a program to implement Linear Linked List and show the following operations: creation, display, insertion, deletion and searching.
 package Unit2;
-
 import java.util.Scanner;
 
 class Node {

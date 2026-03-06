@@ -1,5 +1,5 @@
+// 2.1 Write a program to implement a circular queue and show the following: insertion and deletion.
 package Unit2;
-
 import java.util.Scanner;
 
 class CircularQueueClass {
