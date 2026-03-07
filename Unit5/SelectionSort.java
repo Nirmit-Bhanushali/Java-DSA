@@ -1,3 +1,4 @@
+// 5.2 Write a program to sort a given set of elements using Selection sort and hence find the time required to sort elements. Repeat the experiment for different values of n, the number of elements in the list to be sorted, and plot a graph of the time taken versus n.
 package Unit5;
 
 import java.util.Scanner;
